@@ -1,1 +1,1 @@
- [GitHub] (https://github.com/Jyoti-Olekar/markdown-portfolio.git)
+[text](https://example.com)
